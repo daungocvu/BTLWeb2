@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+    color: #666666;
+}
+
+ 
+  #add:hover {
+    background-color: rgb(3, 57, 138);
+    color:white;
+  }
+
+  table{
+      color: #666666;
+      border-color: lightgray;
+      margin: auto;
+  }
+
+  #fix{
+    color: rgb(60, 96, 255);
+    border: 0px;
+    background-color: white;
+    font-size: 11pt;
+    font-weight: bold;
+    cursor: pointer;
+   }
+
+   
+  #delete{
+    color: red;
+    border: 0px;
+    background-color: white;
+    font-size: 11pt;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+  form{
+    margin-block-end:0cm;
+  }
+
+  #option{
+    text-align: center;
+  }
+
+  #add{
+    border: solid 1px;
+    border-radius: 4px;
+    background-color: rgb(49, 118, 221);
+    color: white; 
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12pt;
+    cursor: pointer;
+    position: absolute;
+  top: 15%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  }
+
+  .flex {
+    margin-bottom: 80px;
+  }
+  
+  .page{
+    position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin-top: 50px;
+  }
+
+  .page a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    
+  }
+
+  .page span {
+    color: white;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    background-color: rgb(49, 118, 221);
+  }
+  
+  
+
+
